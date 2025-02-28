@@ -1,0 +1,4 @@
+name: DiamondLand
+version: '${project.version}'
+main: sudark.diamondland.DiamondLand
+api-version: '1.21'
